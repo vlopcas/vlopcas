@@ -1,4 +1,6 @@
-<h1 align="center">Victor Castro</h1>
+<h1 align="center">
+  <img src="assets/hero.png" alt="Hero"/>
+</h1>
 
 <p align="center">
   <strong>Data Scientist | Software, Data & AI Systems</strong>
